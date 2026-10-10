@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Ahmad Injas 👋
+Radiology Tech ➜ Full Stack Developer | Ramallah, Palestine 🇵🇸
 
-<!--
-**ahmadinjas/ahmadinjas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building clean, precise web apps. My background in medical imaging taught me attention to detail and problem-solving under pressure.
 
-Here are some ideas to get you started:
+🔭 Working on: Portfolio website & JS projects
+🌱 Learning: JavaScript, Python @ AXSOS Academy (660+ hrs)
+👯 Looking to collaborate on: Web development projects
+💬 Ask me about: HTML, CSS, JS, Python
+📫 Reach me: linkedin.com/in/ahmad-injas
+⚡ Fun fact: From reading X-rays to reading code!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+HTML | CSS | JavaScript | Python | Git
